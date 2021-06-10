@@ -12,9 +12,9 @@ using System.Media;
 namespace Runnig_Dinosaur
 {
     //Miguel Daniel Reyes Martinez
-    //Maynor Antonio Torres Hernandez
-
-    
+    //
+    //ESPACIO PARA SALTAR - "R" PARA REINICIAR
+    //
     public partial class Form1 : Form //variables a usarse
     {
         bool salto = false; //salto
