@@ -1,0 +1,16 @@
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\bin\Debug\netcoreapp3.1\Runnig Dinosaur.exe
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\bin\Debug\netcoreapp3.1\Runnig Dinosaur.deps.json
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\bin\Debug\netcoreapp3.1\Runnig Dinosaur.runtimeconfig.json
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\bin\Debug\netcoreapp3.1\Runnig Dinosaur.runtimeconfig.dev.json
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\bin\Debug\netcoreapp3.1\Runnig Dinosaur.dll
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\bin\Debug\netcoreapp3.1\Runnig Dinosaur.pdb
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\obj\Debug\netcoreapp3.1\Runnig_Dinosaur.Form1.resources
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\obj\Debug\netcoreapp3.1\Runnig_Dinosaur.Properties.Resources.resources
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\obj\Debug\netcoreapp3.1\Runnig Dinosaur.csproj.GenerateResource.cache
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\obj\Debug\netcoreapp3.1\Runnig Dinosaur.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\obj\Debug\netcoreapp3.1\Runnig Dinosaur.AssemblyInfo.cs
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\obj\Debug\netcoreapp3.1\Runnig Dinosaur.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\obj\Debug\netcoreapp3.1\Runnig Dinosaur.dll
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\obj\Debug\netcoreapp3.1\Runnig Dinosaur.pdb
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\obj\Debug\netcoreapp3.1\Runnig Dinosaur.genruntimeconfig.cache
+C:\Users\Mike\source\repos\Runnig Dinosaur\Runnig Dinosaur\obj\Debug\netcoreapp3.1\Runnig Dinosaur.csproj.AssemblyReference.cache
